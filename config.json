@@ -1,0 +1,14 @@
+{
+  "Paths": [
+    {
+      "Directory": ".\\TestLogs",
+      "ArchiveAfterDays": 7,
+      "DeleteAfterDays": 30
+    },
+    {
+      "Directory": ".\\Logs",
+      "ArchiveAfterDays": 7,
+      "DeleteAfterDays": 30
+    }
+  ]
+}
